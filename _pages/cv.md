@@ -15,28 +15,32 @@ Education
 * Ph.D in Geotechnical Engineering, The Hong Kong University of Science and Technology, Hong Kong SAR, China (2019)
 * Bachelor in Civil Engineering, Zhejiang University, Hangzhou, China (2014)
 
+
 Work experience
 ======
 * 2019/10 – present: Assistant Professor, University of Macau, Macao SAR, China
 * 2019/04 – 2019/09: Post-doc fellow, The Hong Kong University of Science and Technology, Hong Kong SAR, China
+
 
 Teaching
 ======
 * Fall semester    CIVL1003 Statics (Undergraduate course)
 * Spring semester  CIVL7018 Landslide Risk Assessment and Mitigation (Postgraduate course)
 
+
 Fundings
 ======
 * Principal Investigator: Automatic exploration by unmanned aerial vehicle system for debris flow channel detection, Science and Technology Development Fund (FDCT), Macao SAR, 0029/2023/RIB2, 2024-01-16 to 2027-01-15, Ongoing.
 * Principal Investigator: Fundamental mechanisms and processes of rainstorm-induced mountainous hazard chain and multi-hazard risk assessment, Science and Technology Development Fund (FDCT), Macao SAR, 0083/2020/A2, 2021-06-08 to 2024-06-07, Completed.
 * Principal Investigator: Integrated two-phase mass flow and erosion model for rain-induced hazard chains, National Natural Science Foundation of China Youth Program, China, 42007245, 2021-01-01 to 2023-12-31, Completed.
-  
+
+
+
 Publications
 ======
 
 Journal
 -----
-***Selected***
 
 ***2024***
 
@@ -71,9 +75,9 @@ Debris flow
 * (Runout modelling) Wang TF, Huang TS, **Shen P***, Peng DL, Zhang LM, 2023.The mechanisms of high mobility of a glacial debris flow using the Pudasaini-Mergili multi-phase modeling. Engineering Geology 322, 107186. https://doi.org/10.1016/j.enggeo.2023.107186
 
 Flooding
-* (Review) **Shen P**, Wei SL, Shi HB, Gao L, Zhou WH, 2023. Coastal flood risk and smart resilience evaluation under a changing climate. Ocean-Land-Atmosphere Research 2, 0029. https://doi.org/10.34133/olar.0029
+* (Review) **Shen P**, Wei SL, Shi HB, Gao L, Zhou WH*, 2023. Coastal flood risk and smart resilience evaluation under a changing climate. Ocean-Land-Atmosphere Research 2, 0029. https://doi.org/10.34133/olar.0029
 * (Machine learning) Zhang XL, Wang TF, Wang WP, **Shen P***, Cai ZY, Cai HY, 2023. A multi-site tide level prediction model based on graph convolutional recurrent networks. Ocean Engineering 269, 113579. https://doi.org/10.1016/j.oceaneng.2022.113579
-* (Flood risk) Li Y, Zhou WH, **P Shen***, 2023. Flood risk assessment of loss of life for a coastal city under the compound effect of storm surge and rainfall. Urban climate 47, 101396. https://doi.org/10.1016/j.uclim.2022.101396
+* (Flood risk) Li Y, Zhou WH, **Shen P***, 2023. Flood risk assessment of loss of life for a coastal city under the compound effect of storm surge and rainfall. Urban climate 47, 101396. https://doi.org/10.1016/j.uclim.2022.101396
 
 Others
 * Li WB, Zhang BS, Yuan ZT, **Shen P**, Yu X, Wang ZL, Cheng TH, 2023. Enhancing Energy Storage and Utilization of Triboelectric Nanogenerator by a Synchronized Charge Accumulation Circuit. IEEE Transactions on Power Electronics 38 (8), 9294-9301. https://doi.org/10.1109/TPEL.2023.3280446
