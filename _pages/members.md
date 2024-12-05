@@ -1,11 +1,9 @@
 ---
+layout: archive
 title: "Members"
 permalink: /members/
 author_profile: true
-redirect_from:
 ---
-
-{% include base_path %}
 
 Ph.D. students
 ======
