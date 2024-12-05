@@ -41,7 +41,7 @@ Journal
 ***2024***
 
 Debris flow
-* (SLAM for channel) Wang TF, Lu FC, Qin JT, Huang TS, Kong H, **Shen P***, 2024. AscDAMs: advanced SLAM-based channel detection and mapping system. Natural Hazards and Earth System Sciences 24 (9), 3075-3094. https://doi.org/10.5194/nhess-24-3075-2024
+* (SLAM for channel) Wang TF, Lu FC, Qin JT, Huang TS, Kong H, **Shen P***, 2024. AscDAMs: advanced SLAM-based channel detection and mapping system. Natural Hazards and Earth System Sciences 24(9), 3075-3094. https://doi.org/10.5194/nhess-24-3075-2024
 * (Impact mechanisms) Jiang JQ, **Shen P***, 2024. Mechanisms of structural damage under earth mass flow impact: Insights into torsion-triggered collapse. Structures 63, 106380. https://doi.org/10.1016/j.istruc.2024.106380
 * (Runout modelling) Zhang S, Fang Z, Dai C, Wang SR, Peng JY, Zhou YL, **Shen P***, 2024. Debris flow runout behaviors considering the influences of densely populated buildings. Journal of Mountain Science 21 (8), 2696-2712. https://doi.org/10.1007/s11629-023-8390-1
 
@@ -72,7 +72,7 @@ Debris flow
 
 Flooding
 * (Review) **Shen P**, Wei SL, Shi HB, Gao L, Zhou WH, 2023. Coastal flood risk and smart resilience evaluation under a changing climate. Ocean-Land-Atmosphere Research 2, 0029. https://doi.org/10.34133/olar.0029
-* (Machine learning) Zhang XL, Wang TF, Wang WP, **Shen P***, Cai ZY*, Cai HY, 2023. A multi-site tide level prediction model based on graph convolutional recurrent networks. Ocean Engineering 269, 113579. https://doi.org/10.1016/j.oceaneng.2022.113579
+* (Machine learning) Zhang XL, Wang TF, Wang WP, **Shen P***, Cai ZY, Cai HY, 2023. A multi-site tide level prediction model based on graph convolutional recurrent networks. Ocean Engineering 269, 113579. https://doi.org/10.1016/j.oceaneng.2022.113579
 * (Flood risk) Li Y, Zhou WH, **P Shen***, 2023. Flood risk assessment of loss of life for a coastal city under the compound effect of storm surge and rainfall. Urban climate 47, 101396. https://doi.org/10.1016/j.uclim.2022.101396
 
 Others
