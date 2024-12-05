@@ -41,7 +41,7 @@ Journal
 ***2024***
 
 Debris flow
-* (SLAM for channel) Wang TF, Lu FC, Qin JT, Huang TS, Kong H*, **Shen P***, 2024. AscDAMs: advanced SLAM-based channel detection and mapping system. Natural Hazards and Earth System Sciences 24 (9), 3075-3094. https://doi.org/10.5194/nhess-24-3075-2024
+* (SLAM for channel) Wang TF, Lu FC, Qin JT, Huang TS, Kong H, **Shen P***, 2024. AscDAMs: advanced SLAM-based channel detection and mapping system. Natural Hazards and Earth System Sciences 24 (9), 3075-3094. https://doi.org/10.5194/nhess-24-3075-2024
 * (Impact mechanisms) Jiang JQ, **Shen P***, 2024. Mechanisms of structural damage under earth mass flow impact: Insights into torsion-triggered collapse. Structures 63, 106380. https://doi.org/10.1016/j.istruc.2024.106380
 * (Runout modelling) Zhang S, Fang Z, Dai C, Wang SR, Peng JY, Zhou YL, **Shen P***, 2024. Debris flow runout behaviors considering the influences of densely populated buildings. Journal of Mountain Science 21 (8), 2696-2712. https://doi.org/10.1007/s11629-023-8390-1
 
@@ -49,11 +49,11 @@ Geological stratum for Geo-disasters
 * (Stratum modelling) Yan W, Guan Z, Zhou WH, **Shen P***, 2024. A flexible and efficient model coupling multi-type data for 2D/3D stratigraphic modeling. Bulletin of Engineering Geology and the Environment 83 (5), 1-18. https://doi.org/10.1007/s10064-024-03677-y
 
 Flooding
-* (Novel rain gauge) Qin JT, Huang TS, Wang TF, Li HY, Yu Y, Wang ZL*, **Shen P***, Cheng TH*, 2024. A capillary structured droplet-based triboelectric nanogenerator for high-accuracy rainfall monitoring. IEEE Sensors Journal 24(7), 11342 - 11353. https://doi.org/10.1109/JSEN.2024.3360987
+* (Novel rain gauge) Qin JT, Huang TS, Wang TF, Li HY, Yu Y, Wang ZL, **Shen P***, Cheng TH, 2024. A capillary structured droplet-based triboelectric nanogenerator for high-accuracy rainfall monitoring. IEEE Sensors Journal 24(7), 11342 - 11353. https://doi.org/10.1109/JSEN.2024.3360987
 * (Modelling) Qin JT, Gao L, Lin KR, **P Shen***, 2024. A novel and efficient method for real-time simulating spatial and temporal evolution of coastal urban pluvial flood without drainage network. Environmental Modelling & Software 172, 105888. https://doi.org/10.1016/j.envsoft.2023.105888
 
 Urban Sustainability under disaster
-* (Climate change effects) Zhang XL, Huang TS, Wang WP*, **Shen P***, 2024. Change of global land extreme temperature in the future. Global and Planetary Change 242, 104583. https://doi.org/10.1016/j.gloplacha.2024.104583
+* (Climate change effects) Zhang XL, Huang TS, Wang WP, **Shen P***, 2024. Change of global land extreme temperature in the future. Global and Planetary Change 242, 104583. https://doi.org/10.1016/j.gloplacha.2024.104583
 
 Others
 * Li ZF, Zhang ZT*, Tai P, **Shen P**, Li JH, 2024. Investigation of morphological effects on crushing characteristics of calcareous sand particle by 3D image analysis with spherical harmonics. Powder Technology 433, 119204. https://doi.org/10.1016/j.powtec.2023.119204
@@ -68,7 +68,7 @@ Geological stratum for Geo-disasters
 * (Machine learning) Yan W, Yan Y, **Shen P***, Zhou WH, 2023. A hybrid physical data informed DNN in axial displacement prediction of immersed tunnel joint. Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards 17(1), 169-180. https://doi.org/10.1080/17499518.2023.2169941
 
 Debris flow
-* (Runout modelling) Wang TF, Huang TS, **Shen P***, Peng DL*, Zhang LM, 2023.The mechanisms of high mobility of a glacial debris flow using the Pudasaini-Mergili multi-phase modeling. Engineering Geology 322, 107186. https://doi.org/10.1016/j.enggeo.2023.107186
+* (Runout modelling) Wang TF, Huang TS, **Shen P***, Peng DL, Zhang LM, 2023.The mechanisms of high mobility of a glacial debris flow using the Pudasaini-Mergili multi-phase modeling. Engineering Geology 322, 107186. https://doi.org/10.1016/j.enggeo.2023.107186
 
 Flooding
 * (Review) **Shen P**, Wei SL, Shi HB, Gao L, Zhou WH, 2023. Coastal flood risk and smart resilience evaluation under a changing climate. Ocean-Land-Atmosphere Research 2, 0029. https://doi.org/10.34133/olar.0029
