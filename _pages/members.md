@@ -24,7 +24,7 @@ Ph.D. students
 
 Co-supervised Ph.D. students
 ======
-* YAN Wei, 2019-2023 (B.S. @ University of Macau, M.S. @ Nanyang Technological University), Ph.D. Thesis: Geo-data Fusion For 3D Uncertainty Modelling 
+* YAN Wei, 2022- (B.S. @ University of Macau, M.S. @ Nanyang Technological University), Ph.D. Thesis: Geo-data Fusion For 3D Uncertainty Modelling 
 And Application
 * WEI Shi-Lan, 2023- (B.S. @ Beijing University of Technology, M.S. @ Nanyang Technological University), Ph.D. Thesis: Underground pipeline settelement failure in coastal soft ground
 
