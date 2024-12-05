@@ -17,7 +17,7 @@ Ph.D. students
 
 * ZHANG Xin-Long, 2022-  (B.S. & M.S. @ Beijing Nomal University), Ph.D. Thesis: Modelling climate change effects on disaster and energy system sustainability
 
-* CHE Fudong, 2024- (B.S. @ Chengdu University of Technology, M.S. @ Chinese Academy of Geological Science), Ph.D. Thesis: Clustered landslides risk assessment and early warning model
+* CHE Fu-Dong, 2024- (B.S. @ Chengdu University of Technology, M.S. @ Chinese Academy of Geological Science), Ph.D. Thesis: Clustered landslides risk assessment and early warning model
 
 * JIANG Xin-Yu, 2024- (B.S. @ Beijing Normal University, M.S. @ University of Glasgow), Ph.D. Thesis: Urban sustainability and inequity under climate change induced worsening disasters
 
@@ -27,6 +27,7 @@ Co-supervised Ph.D. students
 * YAN Wei, 2019-2023 (B.S. @ University of Macau, M.S. @ Nanyang Technological University), Ph.D. Thesis: Geo-data Fusion For 3D Uncertainty Modelling 
 And Application
 * WEI Shi-Lan, 2023- (B.S. @ Beijing University of Technology, M.S. @ Nanyang Technological University), Ph.D. Thesis: Underground pipeline settelement failure in coastal soft ground
+
 
 Master students (To be updated)
 ======
