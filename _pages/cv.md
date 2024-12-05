@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+
 {% include base_path %}
 
 Education
@@ -75,14 +76,16 @@ Flooding
 * (Flood risk) Li Y, Zhou WH, **P Shen***, 2023. Flood risk assessment of loss of life for a coastal city under the compound effect of storm surge and rainfall. Urban climate 47, 101396. https://doi.org/10.1016/j.uclim.2022.101396
 
 Others
-* Li WB, Zhang BS, Yuan ZT, Shen P, Yu X, Wang ZL, Cheng TH, 2023. Enhancing Energy Storage and Utilization of Triboelectric Nanogenerator by a Synchronized Charge Accumulation Circuit. IEEE Transactions on Power Electronics 38 (8), 9294-9301. https://doi.org/10.1109/TPEL.2023.3280446
+* Li WB, Zhang BS, Yuan ZT, **Shen P**, Yu X, Wang ZL, Cheng TH, 2023. Enhancing Energy Storage and Utilization of Triboelectric Nanogenerator by a Synchronized Charge Accumulation Circuit. IEEE Transactions on Power Electronics 38 (8), 9294-9301. https://doi.org/10.1109/TPEL.2023.3280446
 
 ***2022***
 
 Flooding
 * (Flood risk) Li Y, **Shen P***, Yan Y, Zhou WH, 2022. Flood risk assessment of artificial islands under compound rain-tide-wind effects during tropical cyclones. Journal of Hydrology 615, 128736. https://doi.org/10.1016/j.jhydrol.2022.128736
-* Peng DL, Zhang LM, Jiang RC, Zhang S, **Shen P**, Lu WJ, He X, 2022. Initiation mechanisms and dynamics of a debris flow originated from debris-ice mixture slope failure in southeast Tibet, China. Engineering Geology 307, 106783. https://doi.org/10.1016/j.enggeo.2022.106783
 * (Flood risk) Li Y, Zhou WH, **Shen P***, 2022. Pedestrian danger assessment under rainstorm-induced flood disaster for an artificial island. International Journal of Disaster Risk Reduction 78, 103133. https://doi.org/10.1016/j.ijdrr.2022.103133
+
+Others
+* Peng DL, Zhang LM, Jiang RC, Zhang S, **Shen P**, Lu WJ, He X, 2022. Initiation mechanisms and dynamics of a debris flow originated from debris-ice mixture slope failure in southeast Tibet, China. Engineering Geology 307, 106783. https://doi.org/10.1016/j.enggeo.2022.106783
 * Peng DL, Xu Q*, Zhang LM, Xing HL*, **Shen P**, Zhao KY, Zhang XL, 2022. Tracking and modelling water percolation process in modern intensive farming loess terraces. Catena 210, 10593. https://doi.org/10.1016/j.catena.2021.105930
 
 ***Before 2021***
