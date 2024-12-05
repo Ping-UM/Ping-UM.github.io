@@ -9,7 +9,7 @@ redirect_from:
 
 Lab brief
 ======
-The GeoDISS Lab within the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) at University of Macau is dedicated to breaking through research and applicaiton bottlenecks in geological-hydrological-geotechnical disaster mitigation, aiming to promote public safety and urban sustainability. We have a dual research focus: fundamental physical mechanisms with novel insights and practical solutions with real-world impact. We boost our research by a blend of traditional experiment/numerical methods with interdisciplinary methods such as SLAM, computer vision, geophysical multi-modal data, and sensor fusion. Check out our continuously updated Project and Github source code repository.🏄🏄🏄
+The GeoDISS Lab within the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) at University of Macau is dedicated to breaking through research and applicaiton bottlenecks in geological-hydrological-geotechnical disaster mitigation, aiming to promote public safety and urban sustainability. We have a dual research focus: fundamental physical mechanisms with novel insights and practical solutions with real-world impact. We boost our research by a blend of traditional experiment/numerical methods with interdisciplinary methods such as SLAM, computer vision, geophysical multi-modal data, and sensor fusion. Check out our continuously updated Research and Publications.🏄🏄🏄
 
 Welcome to join
 =====
@@ -17,4 +17,4 @@ Welcome to join us if you're interested in these areas and solving real-world pr
 
 About me
 ======
-I am an Assistant Professor at the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) at University of Macau. I obtained my PhD degree (2019) from Department of Civil and Environmental Engineering, Hong Kong University of Science and Technology (HKUST). My research areas are physical mechanisms and practical solutions in geological-hydrological-geotechnical disasters affecting human activity, mainly including landslide, debris flow, flooding, underground pipelines, etc. Besides, interactions between urban disasters and human dynamics are rising in my focus.
+I am an Assistant Professor at the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) at University of Macau. I obtained my PhD degree (2019) from Department of Civil and Environmental Engineering, Hong Kong University of Science and Technology (HKUST). My research areas are physical mechanisms and practical solutions in geological-hydrological-geotechnical disasters affecting human activity, mainly including landslide, debris flow, flooding, underground pipelines, etc. Besides, urban sustaintability, especially interactions between urban disasters and human dynamics, are rising in my focus.
