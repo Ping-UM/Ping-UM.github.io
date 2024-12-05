@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "GeoDISS Lab - Geo-hydro DIsaster: Smart and Sustainability"
+title: "GeoDISS Lab (Geo-hydro DIsaster: Smart and Sustainability)"
 author_profile: true
 redirect_from: 
   - /about/
