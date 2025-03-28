@@ -27,7 +27,6 @@ Teaching
 
 Fundings
 ======
-* Principal Investigator: Automatic exploration by unmanned aerial vehicle system for debris flow channel detection, Science and Technology Development Fund (FDCT), Macao SAR, 0029/2023/RIB2, 2024-01-16 to 2027-01-15, Ongoing.
 * Principal Investigator: Fundamental mechanisms and processes of rainstorm-induced mountainous hazard chain and multi-hazard risk assessment, Science and Technology Development Fund (FDCT), Macao SAR, 0083/2020/A2, 2021-06-08 to 2024-06-07, Completed.
 * Principal Investigator: Integrated two-phase mass flow and erosion model for rain-induced hazard chains, National Natural Science Foundation of China Youth Program, China, 42007245, 2021-01-01 to 2023-12-31, Completed.
 
